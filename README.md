@@ -12,3 +12,5 @@ Tech Stack: HTML5, CSS3, JavaScript, JSON. <br>
 This project has helped me understand how static designs can translate into interactive user experiences, and how using structured data-such as JSON as my single source of truth- improves maintainability and avoid future bugs when new books and series are added. <br>
 Challenges include designing a scalable JSON structure for multiple books and series, as well as refactoring a previously static website into a data-driven structure. <br>
 There are still many areas where this project can be improved and expanded that I plan to revisit in the future. This includes implementing a filtering functionality using JavaScript's ".filter()" and ".map()" to allow users to select specific tropes and exclude certain trigger warnings, made possible by the centralized JSON data. I can also enhance accessibility and keyboard navigation.
+
+figma design file: https://www.figma.com/site/Kh1sa2oUHW8gvgoCvp2cE0/Ana-Huang-website---student-project?node-id=0-1&t=wYAXUMXvOKLr37PN-1
