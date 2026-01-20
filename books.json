@@ -1,0 +1,65 @@
+{ "series": [
+    { "title": "Upcoming Release",
+    "age": "15+",
+    "link": null, 
+    "books" : [
+        { "image": "/images/book-cover-king-of-glutonny.jpg", 
+        "alt": "King of Glutonny upcoming release" },
+        { "image": "/images/book-cover-the-keeper.jpg",
+        "alt": "The Keeper upcoming release"}
+    ]}, 
+    { "title": "Gods Of The Game",
+    "age": "15+",
+    "link": "/book-gotg.html", 
+    "books" : [{
+        "image": "/images/book-cover-the-striker.jpg",
+        "alt": "The Striker, book one of Gods Of The Game series."}, {
+        "image": "/images/book-cover-the-defender.jpg",
+        "alt": "The Defender, book two of Gods Of The Game series."}, {
+        "image": "/images/book-cover-the-keeper.jpg",
+        "alt": "The Keeper, book three of Gods Of The Game series."}
+    ]},
+    { "title": "King of Sin",
+    "age": "18+",
+    "link": "/book-kos.html",
+    "books": [{
+        "image": "/images/book-cover-king-of-wrath.jpg",
+        "alt": "King of Wrath, book one of the King of Sin series."}, {
+        "image": "/images/book-cover-king-of-pride.jpg",
+        "alt": "King of Pride, book two of the King of Sin series."}, {
+        "image": "/images/book-cover-king-of-greed.jpg",
+        "alt": "King of Greed, book three of the King of Sin series."},{
+        "image": "/images/book-cover-king-of-sloth.jpg",
+        "alt": "King of Sloth, book four of the King of Sin series."},{
+        "image": "/images/book-cover-king-of-envy.jpg",
+        "alt": "King of Envy, book five of the King of Sin series."},{
+        "image": "/images/book-cover-king-of-glutonny.jpg",
+        "alt": "King of Glutonny, book six of the King of Sin series."}
+    ]},
+    { "title": "Twisted", 
+    "age": "17+",
+    "link": "/book-twisted.html",
+    "books":[{
+        "image": "/images/book-cover-twisted-love.png",
+        "alt": "Twisted Love, book one of the Twisted series."},{
+        "image": "/images/book-cover-twisted-games.png",
+        "alt": "Twisted Games, book two of the Twisted series."},{
+        "image": "/images/book-cover-twisted-hate.png",
+        "alt": "Twisted Hate, book three of the Twisted series."},{
+        "image": "/images/book-cover-twisted-lies.png",
+        "alt": "Twisted Lies, book four of the Twisted series."}
+    ]},
+    { "title": "If Love",
+    "age": "15+",
+    "link": "/book-il.html",
+    "books":[{
+        "image": "/images/book-cover-if-we-ever-meet-again.jpg",
+        "alt": "If we ever meet again, book one of If Love series."},{
+        "image": "/images/book-cover-if-the-sun-never-sets.jpg",
+        "alt": "If the sun never sets, book two of If Love series."},{
+        "image": "/images/book-cover-if-love-had-a-price.jpg",
+        "alt": "If love had a price, book three of If Love series."},{
+        "image": "/images/book-cover-if-we-were-perfect.jpg",
+        "alt": "If we were perfect, book four of If Love series."}
+    ]} 
+]}
