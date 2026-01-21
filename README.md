@@ -7,6 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 ![Status](https://img.shields.io/badge/Status-active-success)
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
+![Status](https://img.shields.io/badge/status-maintained-red)
 ![Status](https://img.shields.io/badge/status-maintained-critical)
 ![Status](https://img.shields.io/badge/status-maintained-orange)
 This project is an author website featuring a landing page, complete book list, dedicated pages for each book series, author information, and upcoming news. It showcases both UI/UX design principles and front-end web development through a responsive, data-driven implementation. <br>
