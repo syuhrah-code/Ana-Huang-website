@@ -4,6 +4,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![Status](https://img.shields.io/badge/Status-active-success)
+![Status](https://img.shields.io/badge/status-in%20development-yellow)
+![Status](https://img.shields.io/badge/status-maintained-brightgreen)
+![Status](https://img.shields.io/badge/status-deprecated-orange)
+![Status](https://img.shields.io/badge/status-archived-red)
+![Status](https://img.shields.io/badge/status-on%20hold-lightgrey)
 This project is an author website featuring a landing page, complete book list, dedicated pages for each book series, author information, and upcoming news. It showcases both UI/UX design principles and front-end web development through a responsive, data-driven implementation. <br>
 The initial website originally began as a school project focused on web design and basic HTML and CSS. Original requirements consisted of a landing page, author information page, and a gallery, all conceptualized in Adobe XD and made in Dreamweaver. <br>
 After starting a full-stack developer course on Scrimba, I wanted to challenge myself and expand the project using new skills and knowledge I gained. I redesigned the website on Figma and executed in with VS Code, now complete with additional pages, improved structure, and interactive functionality. <br>
